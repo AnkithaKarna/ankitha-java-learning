@@ -3,7 +3,7 @@ package myFirstPackage;
 public class MyFirstclass {
 
 	public static void main(String[] args) {
-		boolean bvar= true;
+	
 		System.out.println(true);
 		System.out.println("print first line");
 		int i=10;

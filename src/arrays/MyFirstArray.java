@@ -1,4 +1,4 @@
-package myFirstPackage;
+package arrays;
 
 public class MyFirstArray {
 
