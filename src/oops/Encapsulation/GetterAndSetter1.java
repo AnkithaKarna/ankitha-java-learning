@@ -17,7 +17,7 @@ public class GetterAndSetter1 {
 
 	public void setId(int idFromCaller) {
 		this.id = idFromCaller;
-		id=2;
+		
 		System.out.println(id);
 	}
 
